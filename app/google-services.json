@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372583351471",
+    "firebase_url": "https://bioapp-40060.firebaseio.com",
+    "project_id": "bioapp-40060",
+    "storage_bucket": "bioapp-40060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372583351471:android:0f52e5531a2b839530405a",
+        "android_client_info": {
+          "package_name": "com.pfranccino.learnApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372583351471-549fbmu288689esue3r5rmgioterp0bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNI5RyA3S9hzmq3aBbQaDQU09Qf8kUAa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372583351471-549fbmu288689esue3r5rmgioterp0bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

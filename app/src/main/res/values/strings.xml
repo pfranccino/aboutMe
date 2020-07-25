@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LearnApp</string>
+    <string name="email_hint">Email</string>
+    <string name="psw_hint">Password</string>
+    <string name="txt_button_register">Registrarme</string>
+</resources>
